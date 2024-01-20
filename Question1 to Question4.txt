@@ -1,0 +1,32 @@
+Q1.List out the feature of HTML5?
+Ans. 1.Semantic tag
+     2.Local storage
+     3.canvas
+     4.Audio and video tag
+     5.Reponsive Images 
+     6.Header and footer
+     7.PLaceholder 
+
+Q2.what are the HTML entities?list out 5 commonly used HTML entities.
+Ans.HTML charcter entities are used as a replacement of Reserved charcter in HTML.
+    you can also replace charcter that are not present on your keyboard by entites.
+  1.less than &lt
+  2.greater than &gt
+  3.ampersand &amp
+  4.copy right &copy
+  5.trademark &reg
+
+Q3.Define accessbility in the context of web development.Discuss why it's essential to create accessible website and how it benifit to different 
+Ans.Accessibility is important for devlopers and organisation who want to create high quality website and tools. it ensure that all user have a
+    decent experience and can easily access information.
+    some benefit.
+   1.ethical:its the right thing to do.
+   2.seo:Boots search engine ranking.
+   3.border reach:increase audience size.
+
+Q4.List any 3 ways which help us improve the accessibility of HTML?
+Ans.1.Semantic HTML:This HTML code conveys the purpose of on element.
+                    semantically rich element include<button> <form> <footer> <nav> and <heading>.
+    2.Descriptive Heading:Use descriptive  heading and sub heading.
+    3.Clear language: Keep sentence short, avoid,dashe and abberivation and avoid slang word
+     
